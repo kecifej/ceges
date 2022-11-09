@@ -571,7 +571,7 @@ a:focus {
   left: 0;
   width: 95%;
   height: 100%;
-  background-color: #e6e804;
+  background-color: yellowgreen;
   background-size: cover;
   -webkit-clip-path: polygon(0 0, 100% 10%, 100% 90%, 0 100%);
           clip-path: polygon(0 0, 100% 10%, 100% 90%, 0 100%);
@@ -759,12 +759,12 @@ a:focus {
 }
 
 .choose_section .box .btn-box a:hover {
-  background-color: #e6e804;
+  background-color: yellowgreen;
   color: #000000;
 }
 
 .choose_section .box:hover .box_content {
-  background-color: #e6e804;
+  background-color: yellowgreen;
   color: #000000;
 }
 
@@ -783,7 +783,7 @@ a:focus {
   left: 0;
   width: 95%;
   height: 100%;
-  background-color: #e6e804;
+  background-color: yellowgreen;
   -webkit-clip-path: polygon(0 0, 100% 10%, 100% 90%, 0 100%);
           clip-path: polygon(0 0, 100% 10%, 100% 90%, 0 100%);
   z-index: -1;
@@ -1012,7 +1012,7 @@ a:focus {
 .contact_section button {
   border: none;
   display: inline-block;
-  background-color: #e6e804;
+  background-color: yellowgreen;
   color: #000000;
   padding: 12px 35px;
   border-radius: 0;
@@ -1066,7 +1066,7 @@ a:focus {
   left: 0;
   width: 95%;
   height: 100%;
-  background-color: #e6e804;
+  background-color: yellowgreen;
   -webkit-clip-path: polygon(0 0, 100% 10%, 100% 90%, 0 100%);
           clip-path: polygon(0 0, 100% 10%, 100% 90%, 0 100%);
   z-index: -1;
@@ -1285,7 +1285,7 @@ a:focus {
 }
 
 .info_section form {
-  background-color: #e6e804;
+  background-color: yellowgreen;
   padding: 10px;
 }
 
@@ -1320,7 +1320,7 @@ a:focus {
   width: 100%;
   text-align: center;
   display: inline-block;
-  background-color: #e6e804;
+  background-color: yellowgreen;
   color: #000000;
   padding: 10px 55px;
   border-radius: 0;
